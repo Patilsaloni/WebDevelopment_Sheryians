@@ -107,3 +107,6 @@ body::-webkit-scrollbar{
     height: 100vh;
     background-color: red;
 }
+.new{
+    display: flex;
+}
